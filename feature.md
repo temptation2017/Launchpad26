@@ -127,15 +127,19 @@ Launchpad26 是一款高度可定制、功能完整、细节打磨的 macOS 启�
 
 **系统预设文件夹**：  
 
-- ⭐ 收藏夹  
-- 🙈 隐藏应用  
+- ⭐ 收藏夹
+
 ![](images/收藏夹.png)
+
+- 🙈 隐藏应用  
+
 ![](images/隐藏应用.png)
 
 ### 5.2 文件夹系统行为逻辑
 
 - 系统文件夹不可删除  
 - 支持清空用户文件夹  
+
 ![](images/文件夹右键菜单.png)
 
 ---
@@ -147,6 +151,7 @@ Launchpad26 是一款高度可定制、功能完整、细节打磨的 macOS 启�
 - ⚡ **实时搜索 + 防抖**  
 - 🧹 **搜索缓存与 LRU 清理**  
 - 🧠 **内存压力感知与缓存回收**  
+
 ![](images/搜索栏设置.png)
 
 ---
@@ -159,6 +164,7 @@ Launchpad26 是一款高度可定制、功能完整、细节打磨的 macOS 启�
 - 🧩 **文件夹内拖拽排序**  
 - ↩️ **拖拽出文件夹**：支持从文件夹弹窗拖回主界面  
 - ✨ **拖拽视觉优化**：高质量 Ghost View、阴影、平滑跟随  
+
 ![](images/图标拖动创建文件夹.png)
 
 ---
@@ -175,6 +181,7 @@ Launchpad26 是一款高度可定制、功能完整、细节打磨的 macOS 启�
 - 隐藏 / 显示应用  
 - 从文件夹移除  
 - 重命名 / 删除文件夹  
+
 ![](images/图标右键菜单.png)
 ![](images/右键移动到文件夹动画.png)
 
@@ -186,6 +193,7 @@ Launchpad26 是一款高度可定制、功能完整、细节打磨的 macOS 启�
 - 📁 批量移动到文件夹  
 - 🙈 批量隐藏  
 - 📊 应用统计信息（应用总数 / 收藏 / 隐藏 / 文件夹数）  
+
 ![](images/批量操作.png)
 
 ---
@@ -195,12 +203,14 @@ Launchpad26 是一款高度可定制、功能完整、细节打磨的 macOS 启�
 - **Quick Look 预览**：原生风格预览窗口  
   - 展示版本号、大小、修改时间  
   - ESC / Space 关闭，Enter 打开应用
+
 ![](images/快速预览.png)
 
 - **App Memo 图标备忘**：  
   - 编辑 / 预览模式切换  
   - 自动保存  
   - 支持 Ctrl 常见快捷键  
+
 ![](images/图标备忘.png)
 ![](images/图标备份快速预览.png)
 
@@ -224,6 +234,7 @@ Launchpad26 是一款高度可定制、功能完整、细节打磨的 macOS 启�
 - 📤 一键导出  
 - 📥 一键导入  
 - 🧹 一键重置全部数据  
+
 ![](images/备份导入导出.png)
 
 ---
@@ -248,6 +259,7 @@ Launchpad26 是一款高度可定制、功能完整、细节打磨的 macOS 启�
 - **壁纸类型（WallpaperType）**：gradient / preset / custom  
 - **预设壁纸分类（WallpaperCategory）**：gradient / minimal / geometric / nature  
 - **自定义壁纸**：最多 10 张，支持安全书签持久访问  
+
 ![](images/壁纸设置.png)
 
 ### 12.4 文件夹弹窗风格（FolderPopupStyle）
@@ -259,6 +271,7 @@ Launchpad26 是一款高度可定制、功能完整、细节打磨的 macOS 启�
 - starfield（星空）  
 - antigravity（反重力漂浮）  
 - scifi（科幻连线）  
+
 ![](images/文件夹弹窗风格设置.png)
 
 ### 12.5 文件夹图标风格（FolderIconStyle）
@@ -296,6 +309,7 @@ pulse, hologram, shimmer, scanline, orbit, sparkle, breathe, glitch, ripple, com
 - 阴影（强度 / 模糊）  
 - 发光（强度 / 模糊）  
 - 文本颜色  
+
 ![](images/字体设置.png)
 
 ### 12.7 其他显示参数
@@ -303,6 +317,7 @@ pulse, hologram, shimmer, scanline, orbit, sparkle, breathe, glitch, ripple, com
 - 行数 / 列数  
 - 图标大小  
 - 显示文件夹计数  
+
 ![](images/主界面图标设置.png)
 
 ---
@@ -369,6 +384,7 @@ pulse, hologram, shimmer, scanline, orbit, sparkle, breathe, glitch, ripple, com
 58. 乱序脉冲归位  
 59. 乱序倾斜归位  
 60. 乱序纵深归位  
+
 ![](images/主界面动画设置.png)
 
 ---
@@ -386,6 +402,7 @@ pulse, hologram, shimmer, scanline, orbit, sparkle, breathe, glitch, ripple, com
 ---
 
 ## 15. 🌍 多语言
+
 ![](images/语言设置.png)
 
 ---
