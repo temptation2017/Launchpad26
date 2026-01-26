@@ -1,4 +1,4 @@
-<img width="880" height="720" alt="语言设置" src="https://github.com/user-attachments/assets/63a88815-dc23-4ee1-ae80-07ca3456351f" /># 🚀 Launchpad26 功能推广介绍
+# 🚀 Launchpad26 功能推广介绍
 
 **💎 高级 · ⚡ 流畅 · 🎨 可定制 · 🔐 安全**
 
