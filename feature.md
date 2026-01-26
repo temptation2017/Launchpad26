@@ -63,6 +63,7 @@ Launchpad26 是一款高度可定制、功能完整、细节打磨的 macOS 启�
   - Esc：关闭文件夹 → 清空搜索 → 关闭主界面  
   - ← / →：翻页  
   - Space：Quick Look 预览  
+
 ![](images/主界面水平.png)
 
 ---
