@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🚀 Launchpad26 Support
+# 🚀 GridLauncher Support
 
-[![GitHub issues](https://img.shields.io/github/issues/temptation2017/Launchpad26?style=flat-square)](https://github.com/temptation2017/Launchpad26/issues)
+[![GitHub issues](https://img.shields.io/github/issues/temptation2017/GridLauncher?style=flat-square)](https://github.com/temptation2017/GridLauncher/issues)
 [![Email](https://img.shields.io/badge/Email-454205797%40qq.com-blue?style=flat-square&logo=gmail)](mailto:454205797@qq.com)
 
 **This repository is for support only.**
@@ -15,7 +15,7 @@
 
 | Channel | Link |
 |:-------:|:----:|
-| 🐛 **Issues** | [Open an Issue](https://github.com/temptation2017/Launchpad26/issues) |
+| 🐛 **Issues** | [Open an Issue](https://github.com/temptation2017/GridLauncher/issues) |
 | 📧 **Email** | [454205797@qq.com](mailto:454205797@qq.com) |
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 
-<sub>Made with ❤️ for Launchpad26 users</sub>
+<sub>Made with ❤️ for GridLauncher users</sub>
 
 </div>
