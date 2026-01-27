@@ -3,10 +3,10 @@
 **生效日期：2026年1月**
 
 ## 概述
-Launchpad26 是一个本地 macOS 应用程序管理工具。我们非常重视您的隐私。
+GridLauncher 是一个本地 macOS 应用程序管理工具。我们非常重视您的隐私。
 
 ## 数据收集
-Launchpad26 不会收集、存储或传输任何用户数据。所有功能均在本地设备上运行。
+GridLauncher 不会收集、存储或传输任何用户数据。所有功能均在本地设备上运行。
 
 具体来说：
 - ❌ 不收集个人信息
@@ -26,7 +26,7 @@ Launchpad26 不会收集、存储或传输任何用户数据。所有功能均�
 
 ## 联系方式
 如有隐私相关问题，请通过以下方式联系：
-- GitHub Issues: https://github.com/temptation2017/Launchpad26/issues
+- GitHub Issues: https://github.com/temptation2017/GridLauncher/issues
 
 ## 更新
 本隐私政策可能会不定期更新，更新后的版本将发布在此页面。
